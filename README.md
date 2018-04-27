@@ -1,0 +1,2 @@
+# Reasearch-
+This paper is focussed to develop an electronic navigation system for visually impaired, that makes use of sensors for obstacle detection. People who are visually impaired struggle every day in performing actions that can be as simple as moving from one point to another without falling down or knocking against obstacles. An Electronic Travel Aid (ETA) is a form of assistive technology having the purpose of enhancing mobility for the blind and visually impaired (VI) pedestrian. 
